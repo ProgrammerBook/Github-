@@ -66,9 +66,9 @@ https://github.com/user-attachments/assets/fd6da451-c705-4847-bcc9-6be1a4d4f325
 
 3. Klikněte na červené tlačítko `Delete this repository`.
 
-4. GitHub vás požádá o potvrzení. Pro smazání musíte zadat název repozitáře (např. `username/repository-name`), abyste se ujistili, že smazání je úmyslné.
+4. GitHub vás požádá o potvrzení. Pro smazání musíte zadat název repozitáře (např. `uzivatelske_jmeno/nazev_repozitare`), abyste se ujistili, že smazání je úmyslné.
 
-5. Klikněte na tlačítko `I understand the consequences, delete this repository` a repozitář bude smazán.
+5. Klikněte na tlačítko `Delete this repository` a repozitář bude smazán.
 
 !!!PAMATUJ že smazání je trvále a nebudeš moci soubor vrátit, radši zkontorluj zdali mažeš správný soubor, nebo si to rozmysli zda je smazání za potřebu.
 
